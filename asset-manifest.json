@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OnlineJobsPH-Exercise01/static/css/main.2a577b53.css",
+    "main.js": "/OnlineJobsPH-Exercise01/static/js/main.c26ee390.js",
+    "static/js/787.234c19d7.chunk.js": "/OnlineJobsPH-Exercise01/static/js/787.234c19d7.chunk.js",
+    "index.html": "/OnlineJobsPH-Exercise01/index.html",
+    "main.2a577b53.css.map": "/OnlineJobsPH-Exercise01/static/css/main.2a577b53.css.map",
+    "main.c26ee390.js.map": "/OnlineJobsPH-Exercise01/static/js/main.c26ee390.js.map",
+    "787.234c19d7.chunk.js.map": "/OnlineJobsPH-Exercise01/static/js/787.234c19d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a577b53.css",
+    "static/js/main.c26ee390.js"
+  ]
+}
