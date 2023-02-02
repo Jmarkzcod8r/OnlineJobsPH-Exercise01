@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/OnlineJobsPH-Exercise01/static/css/main.2a577b53.css",
-    "main.js": "/OnlineJobsPH-Exercise01/static/js/main.c26ee390.js",
+    "main.css": "/OnlineJobsPH-Exercise01/static/css/main.420a359f.css",
+    "main.js": "/OnlineJobsPH-Exercise01/static/js/main.1189ffdb.js",
     "static/js/787.234c19d7.chunk.js": "/OnlineJobsPH-Exercise01/static/js/787.234c19d7.chunk.js",
     "index.html": "/OnlineJobsPH-Exercise01/index.html",
-    "main.2a577b53.css.map": "/OnlineJobsPH-Exercise01/static/css/main.2a577b53.css.map",
-    "main.c26ee390.js.map": "/OnlineJobsPH-Exercise01/static/js/main.c26ee390.js.map",
+    "main.420a359f.css.map": "/OnlineJobsPH-Exercise01/static/css/main.420a359f.css.map",
+    "main.1189ffdb.js.map": "/OnlineJobsPH-Exercise01/static/js/main.1189ffdb.js.map",
     "787.234c19d7.chunk.js.map": "/OnlineJobsPH-Exercise01/static/js/787.234c19d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a577b53.css",
-    "static/js/main.c26ee390.js"
+    "static/css/main.420a359f.css",
+    "static/js/main.1189ffdb.js"
   ]
 }
